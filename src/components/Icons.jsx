@@ -11,7 +11,7 @@ export default function Icons(props) {
       <IconButton onClick={() => props.passHelpOpen(true)}>
         <HelpIcon />
       </IconButton>
-      <IconButton href="https://github.com/lbrowngs/rgbdle" target="_null">
+      <IconButton href="https://github.com/lauraliz6/rgbdle" target="_null">
         <GitHubIcon />
       </IconButton>
       <IconButton onClick={() => props.passPastOpen(true)}>
